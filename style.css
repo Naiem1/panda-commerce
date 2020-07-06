@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .container {
   margin-bottom: 100px;
 }
@@ -54,3 +58,22 @@ p {
 .categories img {
   max-width: 100px;
 }
+
+/* .card {
+  border: 0;
+  box-shadow: 5px 5px 10px lightgray;
+} */
+
+/* .card-footer {
+  border-top: none;
+  background: #fff;
+} */
+
+
+#subscribe {
+  height: 300px;
+}
+
+/* #subscribe h6 {
+  color: gray;
+} */
